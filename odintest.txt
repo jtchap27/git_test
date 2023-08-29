@@ -1,0 +1,5 @@
+i like to use Odin
+this is helping me learn
+how to code
+in VScode
+i will now stage and commit to git
